@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446782581218",
+    "project_id": "dashkai",
+    "storage_bucket": "dashkai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446782581218:android:c38c1c70c0fa4f64bd31bb",
+        "android_client_info": {
+          "package_name": "com.example.dashkai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTOzyh1PCIepyYAcZmhTGiOHwW7LG8Zs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
